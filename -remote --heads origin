@@ -1,0 +1,123 @@
+[33mcommit f533c54f6079abda92edb70be4bfb18299b81c32[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: c50f068 acf0cb6
+Author: MiController1 <you@example.com>
+Date:   Sat Jul 20 22:09:20 2024 -0700
+
+    modified README.md
+
+[33mcommit c50f06878830716331a195cdf6c3b89e381ea1f4[m
+Author: MiController1 <you@example.com>
+Date:   Sat Jul 20 21:55:49 2024 -0700
+
+    updated submodule config for handsome humble clothing
+
+[33mcommit 9b8eadbbc0a9796aa59875928622b9b65e4babf9[m
+Author: MiController1 <you@example.com>
+Date:   Sat Jul 20 20:00:20 2024 -0700
+
+    updated path and restored repo
+
+[33mcommit acf0cb686764abff0f3e55c4c4760b25ecfa9bb5[m[33m ([m[1;31morigin/test[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: MiController1 <you@example.com>
+Date:   Fri Jul 19 13:35:09 2024 -0700
+
+    updating json info
+
+[33mcommit ac8847f06d7524906da113b8462c45dd397c15b9[m
+Merge: afc45a8 2d28c5b
+Author: MiController1 <you@example.com>
+Date:   Fri Jul 19 13:03:44 2024 -0700
+
+    Merge branch 'main' of https://github.com/MiController1/handsome-humble-clothing
+
+[33mcommit 2d28c5b832fa7f9ff6fd9f4d0d602240814d0099[m
+Author: MiController1 <143661745+MiController1@users.noreply.github.com>
+Date:   Fri Jul 19 12:38:12 2024 -0700
+
+    Create README.md
+
+[33mcommit afc45a8859d75ff013bab51ae2066d18d48e123d[m
+Author: MiController1 <you@example.com>
+Date:   Fri Jul 19 12:22:46 2024 -0700
+
+    uploading project into new repository on github
+
+[33mcommit 3c57f164662c405d27e7abab180fe3e417b2d95e[m
+Author: MiController1 <you@example.com>
+Date:   Fri Jul 19 12:06:55 2024 -0700
+
+    first commit
+
+[33mcommit 600c6eeebbcba423ffe5687f2c70dd7310b77212[m
+Author: MiController1 <you@example.com>
+Date:   Fri Jul 19 11:56:23 2024 -0700
+
+    deleted shop styles.scss and deleted import in shop comp
+
+[33mcommit 2480df0bfd79579c04bf08005daff3dc279766a8[m
+Merge: 8376597 f9bb9c8
+Author: MiController1 <you@example.com>
+Date:   Wed Jul 17 19:17:43 2024 -0700
+
+    Merge branch 'my-main'
+
+[33mcommit f9bb9c89fc16bc575b8145df0a98f79771ab66c9[m[33m ([m[1;32mmy-main[m[33m)[m
+Author: MiController1 <you@example.com>
+Date:   Wed Jul 17 18:09:34 2024 -0700
+
+    updated all
+
+[33mcommit 4ec0f84315366c17b928f1e63f00767e586ed6a6[m
+Author: MiController1 <you@example.com>
+Date:   Mon Jun 17 17:01:42 2024 -0700
+
+    updating
+
+[33mcommit 9cf8694651075940abb339267ab63c2b27bab6ea[m
+Author: MiController1 <you@example.com>
+Date:   Mon Jun 17 16:43:56 2024 -0700
+
+    added shopping bag svg
+
+[33mcommit 83765970fed2ae54d8461344ac830cbaf347331f[m
+Merge: 6f1f4b3 3c33eb3
+Author: MiController1 <you@example.com>
+Date:   Fri Jun 14 12:31:23 2024 -0700
+
+    Merge branch 'my-main'
+
+[33mcommit 6f1f4b3553fa6231d9ba1d90556775b2d545ce9f[m
+Author: MiController1 <you@example.com>
+Date:   Fri Jun 14 12:26:28 2024 -0700
+
+    updated modified project
+
+[33mcommit 3c33eb32de65fba95ea666a222939a3c3539ad4c[m
+Author: MiController1 <you@example.com>
+Date:   Thu Jun 13 12:46:22 2024 -0700
+
+    modified context nav firebase button sign in sign up styles components
+
+[33mcommit 77e167df5d9c32067cefbeaa3fa3140b0bab9e60[m
+Author: MiController1 <you@example.com>
+Date:   Sun Jun 2 21:09:10 2024 -0700
+
+    added sign-in-form authentication, modified components
+
+[33mcommit 181ae4c5eb7e7a299c4a430fd0799cb7a58d6273[m
+Author: MiController1 <you@example.com>
+Date:   Sat May 25 19:37:58 2024 -0700
+
+    created sign up component, the form input component, button component
+
+[33mcommit 4ce694a0a70fa337ff0b653f4537f02d31cf821b[m
+Author: MiController1 <you@example.com>
+Date:   Mon May 6 16:25:35 2024 -0700
+
+    recent update of new files, modified, and deleted
+
+[33mcommit 44146fc179767e30674fca3236e35760fe87e311[m
+Author: MiController1 <you@example.com>
+Date:   Mon Apr 8 12:45:25 2024 -0700
+
+    Initialize project using Create React App
