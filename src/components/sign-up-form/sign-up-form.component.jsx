@@ -26,8 +26,6 @@ const SignUpForm = () => {
     setFormFields(defaultFormFields);
   };
 
-  console.log(formFields);
-
   const handleSubmit = async (event) => {
     event.preventDefault();
 
