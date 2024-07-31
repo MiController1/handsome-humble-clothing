@@ -32,12 +32,6 @@ export const ProductCardContainer = styled.div`
   }
 `;
 
-export const Img = styled.img`
-  width: 100%;
-  height: 95%;
-  object-fit: cover;
-  margin-bottom: 5px;
-`;
 export const Footer = styled.div`
   width: 100%;
   height: 5%;

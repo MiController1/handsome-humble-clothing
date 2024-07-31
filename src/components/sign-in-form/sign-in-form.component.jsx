@@ -33,7 +33,6 @@ const SignInForm = () => {
 
     try {
       await signInAuthUserWithEmailAndPassword(email, password);
-
       resetFormFields();
     } catch (error) {
       switch (error.code) {
@@ -51,13 +50,13 @@ const SignInForm = () => {
 
   const handleChange = (event) => {
     const { name, value } = event.target;
+
     setFormFields({ ...formFields, [name]: value });
   };
 
   return (
     <SignInContainer>
       <h2>Already have an account?</h2>
-
       <span>Sign In with Your Email and Password</span>
       <form onSubmit={handleSubmit}>
         <FormInput
@@ -80,8 +79,8 @@ const SignInForm = () => {
           <Button type="submit">Sign In</Button>
           <Button
             buttonType={BUTTON_TYPE_CLASSES.google}
-            onClick={signInWithGoogle}
             type="button"
+            onClick={signInWithGoogle}
           >
             Sign In With Google
           </Button>

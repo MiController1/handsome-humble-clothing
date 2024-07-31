@@ -26,8 +26,6 @@ const SignUpForm = () => {
     setFormFields(defaultFormFields);
   };
 
-  console.log(formFields);
-
   const handleSubmit = async (event) => {
     event.preventDefault();
 
@@ -53,7 +51,7 @@ const SignUpForm = () => {
     }
   };
 
-  const handleChange = async (event) => {
+  const handleChange = (event) => {
     const { name, value } = event.target;
     setFormFields({ ...formFields, [name]: value });
   };

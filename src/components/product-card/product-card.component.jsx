@@ -6,7 +6,6 @@ import Button, { BUTTON_TYPE_CLASSES } from "../button/button.component";
 
 import {
   ProductCardContainer,
-  Img,
   Footer,
   Name,
   Price,
@@ -20,7 +19,7 @@ const ProductCard = ({ product }) => {
 
   return (
     <ProductCardContainer>
-      <Img src={imageUrl} alt={`${name}`} />
+      <img src={imageUrl} alt={`${name}`} />
       <Footer>
         <Name>{name}</Name>
         <Price>{price}</Price>
